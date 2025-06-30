@@ -104,7 +104,7 @@ For inquiries about our research, collaboration opportunities, or technical ques
 ### Research Team
 - **Ronn Mathew Sino**: [GitHub Profile](https://github.com/RonnMath03)
 - **Noah Thomas**: [GitHub Profile](https://github.com/noahthomas6111)
-- **K J Theophene Xavier Lynn**: [GitHub Profile](https://github.com/nlynntheophene)
+- **K J Theophene Xavier Lynn**: [GitHub Profile](https://github.com/lynntheophene)
 
 ### Faculty Supervision
 - **Dr. Padmanabhan Rajan** - Associate Professor, IIT Mandi
